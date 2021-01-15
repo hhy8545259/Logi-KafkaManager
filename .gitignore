@@ -111,3 +111,6 @@ dist/
 dist/*
 kafka-manager-web/src/main/resources/templates/
 .DS_Store
+
+*.icloud
+*/*.icloud
